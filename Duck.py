@@ -1,7 +1,7 @@
 import time
 print("Welcome to my little game of Duck Duck Goose.")
 name=input ("What is your name? ")
-print ("%s, prepare to be amazed." % (name))
+print ("%s, prepare to be ducked." % (name))
 time.sleep(.5)
 repeat=150
 while repeat>=1:
